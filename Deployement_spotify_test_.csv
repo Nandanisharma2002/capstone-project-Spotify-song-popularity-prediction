@@ -1,0 +1,151 @@
+track_id,artist,album,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,genre
+3KxOYNt66Hj42HzO7ao0CV,Weezer,Weezer (Teal Album),Happy Together,52,145640,False,0.444,0.943,6,-3.724,0,0.104,0.171,6.59e-06,0.297,0.411,125.896,4,happy
+0n0XAmYCMWlzj3W9VdMejw,Gerard Way,Happy Together (feat. Ray Toro),Happy Together (feat. Ray Toro),53,179393,False,0.621,0.816,7,-4.077,1,0.0316,0.0695,0.00559,0.103,0.716,122.032,4,happy
+45isS5LAdFLdl9grgiwu0O,Danny Go!,Danny Go! Sleep Music,Happy Moon Lullaby,47,299750,False,0.388,0.0803,5,-22.323,1,0.0374,0.407,0.755,0.0739,0.0558,94.809,4,happy
+6GHAAp25FcGdaHgAn8rTif,blink-182,NINE,Happy Days,50,179000,False,0.539,0.857,11,-4.489,1,0.0562,0.00279,0.0,0.124,0.605,154.971,4,happy
+3QPTsj8DnjyZoqZIR81JwC,Colter Wall,Colter Wall & The Scary Prairie Boys,Happy Reunion,45,173907,False,0.487,0.563,7,-11.958,1,0.0899,0.401,4.22e-05,0.242,0.718,123.484,4,happy
+0bNIhaDmxiDv1o7ufCayJb,Sarah Jeffery,Descendants 3 (Original TV Movie Soundtrack),Happy Birthday,48,36200,False,0.286,0.378,5,-10.707,1,0.0356,0.845,1.67e-06,0.312,0.259,132.206,5,happy
+0h4XnULY4rpmAid4bNKiIQ,Danny Go!,Happy Moon,Happy Moon,41,238929,False,0.595,0.599,5,-10.349,1,0.0722,0.0116,0.000461,0.116,0.318,139.949,4,happy
+3yxtsBzVlDBzRoBhHS3TpK,grandson,Happy Pill,Happy Pill,41,163892,False,0.666,0.785,7,-6.559,1,0.0678,0.000816,0.356,0.14,0.654,136.025,4,happy
+6DibqiBTKMob2SjBwKqRfS,Jonas Brothers,Happiness Begins,Happy When I'm Sad,42,158467,False,0.782,0.793,7,-7.054,1,0.0399,0.000199,0.000213,0.306,0.906,100.988,4,happy
+7AkLPOwjju8taQCJCaIUts,Kygo,Happy Now (R3HAB Remix),Happy Now - R3HAB Remix,45,189268,False,0.623,0.84,9,-5.446,1,0.123,0.0173,0.0,0.363,0.539,123.068,4,happy
+6xG7t7blddozpBf3S5we1O,P!nk,Hurts 2B Human,Happy,42,181720,True,0.659,0.502,11,-6.948,1,0.0521,0.019,0.0,0.0641,0.291,135.938,4,happy
+4hDBBUfxZom9yCl67A8UAe,Carly Rae Jepsen,Dedicated,Happy Not Knowing,38,161067,False,0.787,0.503,1,-5.23,0,0.0606,0.0743,1.5e-05,0.287,0.659,100.05,4,happy
+05HdUoSnxdg9qapIOBwkHq,CommonWealth,Everyone Around Me,Happy,34,177945,False,0.464,0.926,9,-4.273,0,0.0728,0.000148,0.0,0.127,0.42,72.996,4,happy
+6NJ5Q5QujNwwsst5mdSEfF,DREAMERS,LAUNCH FLY LAND,Die Happy,49,186903,False,0.573,0.873,0,-3.838,1,0.0297,0.000431,0.0,0.403,0.842,102.012,4,happy
+25luDzxyExGiWLrMyCrtx3,SEVENTEEN,An Ode,Happy Ending (Korean Ver.),44,208279,False,0.64,0.695,11,-4.583,0,0.0834,0.223,0.0,0.297,0.723,160.012,4,happy
+4j9TBVRJVzEPG6wjALFyMt,Julia Michaels,Inner Monologue Part 1,Happy,37,191600,True,0.674,0.616,4,-5.365,1,0.155,0.0456,0.0,0.222,0.478,63.114,4,happy
+5NG9pVD8oClwcxeIHNXpBd,Joshua Golden,happysad,happysad,35,174038,True,0.73,0.4,8,-7.062,1,0.0613,0.0346,0.00222,0.256,0.487,83.509,4,happy
+29RpFeHrgO7cXLzAtXu51e,SEVENTEEN,Happy Ending,Happy Ending,45,210613,False,0.628,0.797,11,-3.515,0,0.0927,0.177,0.0,0.282,0.798,159.986,4,happy
+1gVVTKK0CbbajHyCmBPU2k,BradBrooks,Birthday Boy,Happy Pills (feat. rosebudthinks),37,144324,False,0.719,0.23,0,-18.588,0,0.478,0.646,0.0,0.186,0.65,73.783,4,happy
+3BYY6EvwqAIBnRZVHi1XMG,King Princess,Happy Together,Happy Together,41,186667,False,0.581,0.646,8,-7.829,0,0.0376,0.0146,4.96e-05,0.114,0.237,116.998,4,happy
+5erINbTb8XLbTjv85ajj6r,ALASKALASKA,The Dots,Happyface,35,200185,True,0.894,0.652,1,-10.283,0,0.0411,0.55,0.0396,0.109,0.738,116.98,4,happy
+4FMz2RFrbDGzJO7K4D0vS3,back number,MAGIC,HAPPY BIRTHDAY,68,258333,False,0.482,0.602,11,-4.365,1,0.0303,0.0702,0.0,0.0677,0.535,145.988,4,happy
+2B56jFD4f9L6A5WQVTNKJk,Those Without,Easier Said Than Done,"Happy New Year's Eve, You're Still a Fuck-Up",35,69781,True,0.579,0.928,7,-4.351,1,0.0901,0.000277,7.81e-05,0.407,0.826,95.102,4,happy
+1yPkYnRgZveWLCUSWX16ra,TWICE,HAPPY HAPPY,HAPPY HAPPY,46,206974,False,0.609,0.932,10,-1.562,1,0.145,0.173,0.000946,0.396,0.755,179.995,4,happy
+1IjL9CsCleBtVZnK8pzhKi,Kaash Paige,Happy Song,Happy Song,33,157843,True,0.624,0.52,9,-8.601,1,0.438,0.59,1.58e-06,0.108,0.498,109.153,4,happy
+7zTjB5Ir8H6oSxLkum5Hjl,Rosita,Sesame Street: What's the Number?,If You're Happy and You Know It,49,127651,False,0.791,0.494,9,-7.283,1,0.0688,0.338,0.0133,0.0948,0.906,120.097,4,happy
+3Q8848wMFrcBiny6lVl4l0,Miky Woodz,EL OG WEEK,Forever Happy,57,183093,True,0.58,0.716,11,-3.928,0,0.0852,0.293,0.0,0.129,0.509,111.897,5,happy
+7fM24rKaYCTGf85Lj8U2pk,Rels B,Happy Birthday Flakko,SIN MIRAR LAS SEÑALES,70,180000,True,0.754,0.481,0,-7.91,1,0.444,0.387,0.0,0.35,0.289,83.907,4,happy
+0aKCWYasGwr7DtBih8AH4J,SkyDxddy,Happy,Happy,30,162048,True,0.508,0.411,2,-7.939,0,0.0498,0.276,0.0,0.0854,0.388,169.551,4,happy
+65y9gkCzkq6XEzqzrI221z,Set It Off,Midnight,Happy All The Time,32,219200,True,0.587,0.832,0,-4.549,1,0.0479,0.0038,0.0,0.315,0.511,98.038,4,happy
+7hFnUQ3DuZOto1OWslkGMy,Nico Collins,Happy?,Happy?,32,219878,False,0.352,0.853,5,-5.229,0,0.356,0.02,0.0,0.135,0.626,200.061,4,happy
+7usntXXjP3Zd0LAcdLeAwx,LAUREL,Happy Man (triple j Like a Version),Happy Man - triple j Like a Version,41,203158,False,0.702,0.413,10,-10.014,0,0.0509,0.234,1e-05,0.0936,0.431,101.848,4,happy
+77zmq9ZYvCARBKfeUyCgDi,Elmo,D Is for Dance!,Happy Tappin' with Elmo,27,89187,False,0.878,0.768,1,-10.589,1,0.241,0.316,7.88e-06,0.0802,0.839,96.059,4,happy
+2Ldlfe1pthWh1Nrpf5dnQk,Maretu,SIU,White Happy,47,234304,False,0.615,0.968,2,-0.822,0,0.0675,0.0148,0.000863,0.0619,0.859,159.961,4,happy
+7iXdGqqxKYfpC8sOtlHFuY,Michelle Simonal,International Inspirations,The Happy Man,47,269000,False,0.885,0.364,4,-14.279,0,0.0504,0.409,0.00117,0.0779,0.662,109.999,4,happy
+4orgSuL9y4ein9Ztxk4xyx,Relaxmydog,Calming Music to Relax Your Dog and Stop Anxiety,Happy Paws,30,180002,False,0.521,0.0402,4,-26.232,0,0.0395,0.994,0.948,0.0876,0.0921,120.042,4,happy
+4TFP3eab7iLX14pnYTBBUl,L.R. Davidson,Dog Man: The Musical (Original Cast Recording),Happy Song / 80-Hd,29,179320,False,0.713,0.447,9,-7.854,1,0.328,0.755,0.0,0.0914,0.417,129.477,4,happy
+3Ct8NiRoh0OqFhTTsrwkEc,John De Sohn,Made For You,Happy Kids,37,177209,False,0.603,0.65,11,-5.848,1,0.0477,0.0102,0.0,0.243,0.678,124.068,4,happy
+6ZMcwaCE15KXhjsAd5M3Vd,TWICE,&TWICE,HAPPY HAPPY,35,206974,False,0.609,0.932,10,-1.562,1,0.145,0.173,0.000946,0.396,0.755,179.995,4,happy
+0110a0AM2nOV8yYa9u6kjQ,Fly By Midnight,Happy About Everything Else...,Love Me Like a Friend,49,202267,True,0.713,0.764,6,-5.57,0,0.0294,0.0718,0.0,0.0708,0.962,125.052,4,happy
+0DT2mpkrzkzbtZQND5BEe4,Hospital Bracelet,Neutrality Acoustic,Happy Birthday,27,230060,False,0.659,0.124,0,-16.838,1,0.0314,0.841,0.00107,0.109,0.426,94.781,4,happy
+0dhMnCF9KysTgqS0GdnddQ,ConcernedApe,Stardew Valley 1.4 (Original Game Soundtrack),The Happy Junimo Show Theme,29,46475,False,0.432,0.28,2,-14.015,1,0.0384,0.895,0.966,0.11,0.504,174.204,4,happy
+1YJ6iIGEjnmp1SxVScBByi,femdot.,94 Camry Music,Happy Break up Song,26,253939,True,0.553,0.613,7,-6.674,1,0.386,0.226,0.0,0.178,0.18,83.862,4,happy
+3IbrKJhi8QdcCWkVYwkfEe,Barrie,Happy To Be Here (Ext),Human Nature,44,133933,False,0.722,0.524,11,-9.67,0,0.032,0.7,0.851,0.116,0.551,135.949,4,happy
+6YTmsdqH5LZzCGIY0lqloD,Skinnyfabs,happy,happy,59,173218,False,0.734,0.428,3,-11.622,1,0.0266,0.505,0.00802,0.108,0.694,88.011,4,happy
+0NuIfPuBhUAt4aA4HP0rUu,The Japanese House,Good At Falling,You Seemed so Happy,45,162486,False,0.519,0.888,11,-6.232,1,0.117,0.0406,0.0,0.227,0.416,149.938,4,happy
+69s1xQeaUCI34xRX8FnGGW,Morninglightmusic,Nine,Happy Smiles,28,130765,False,0.673,0.583,10,-12.047,1,0.0532,7.24e-05,0.883,0.137,0.441,84.98,4,happy
+4cvO5P0ldjlxErZk8CWXLY,Happy Hour,Love Hurts,Cigarettes,39,258713,True,0.339,0.956,4,-4.015,0,0.4,0.00122,0.0,0.396,0.314,180.055,4,happy
+1md8mpnyxUrJ2OJOrEPJOt,Forest Van Dyke,Dog Man: The Musical (Original Cast Recording),The Happy Ending,24,125640,False,0.675,0.599,0,-5.782,0,0.452,0.555,0.0,0.0796,0.513,124.224,4,happy
+34VFKmBbDY1iKejeoJZHlK,Hiss Golden Messenger,Terms of Surrender,"Happy Birthday, Baby",23,225461,False,0.582,0.644,9,-8.759,1,0.0353,0.462,0.0667,0.11,0.616,88.981,4,happy
+2ogKhhoMClkFXek7ZgxAhN,Camila Cabello,Romance,Shameless,80,219742,False,0.377,0.651,4,-5.437,0,0.0589,0.0197,5.31e-05,0.174,0.0851,129.607,4,romance
+1dr9fQuYZ6NtGuVqdMOTw1,Varials,In Darkness,Romance,52,142520,False,0.661,0.692,10,-5.557,1,0.075,0.00046,0.896,0.162,0.0595,126.845,4,romance
+3yOlyBJuViE2YSGn3nVE1K,Camila Cabello,Romance,My Oh My (feat. DaBaby),73,170746,False,0.724,0.491,8,-6.024,1,0.0296,0.018,1.29e-05,0.0887,0.383,105.046,4,romance
+6QHVV3bpqJUkL1RL5IuF8E,iann dior,nothings ever good enough,romance361 (feat. PnB Rock),50,181290,True,0.709,0.632,1,-7.685,1,0.102,0.059,1.44e-06,0.105,0.369,169.986,4,romance
+6VLzm03YUeXVl3GdGyib6J,Clara Schumann,Romance – The Piano Music of Clara Schumann,"3 Romances, Op. 11: No. 1, Andante",51,182720,False,0.313,0.0324,3,-29.155,0,0.0451,0.992,0.919,0.1,0.0522,127.356,5,romance
+073ILU1C3APNRGF66VhtyA,Camila Cabello,Romance,Liar,61,207039,False,0.74,0.498,11,-6.684,0,0.0456,0.0169,0.00282,0.319,0.652,98.016,4,romance
+6TRt2bniIq0EIlrDlje7b8,Camila Cabello,Romance,First Man,56,228759,False,0.572,0.292,7,-7.621,1,0.0364,0.906,1.04e-06,0.106,0.223,100.152,4,romance
+6E0Gc6lAZ3AzDsWoldmHRC,Ricky Rojas,Moulin Rouge! The Musical (Original Broadway Cast Recording),Backstage Romance,49,322880,False,0.4,0.599,0,-7.234,0,0.0597,0.00504,0.000344,0.389,0.329,127.671,4,romance
+61PbhyKRJYUZwRVYos8pMH,Kanisan,Romance,Romance,30,90351,False,0.711,0.229,0,-14.229,1,0.0403,0.711,0.466,0.0878,0.254,84.986,4,romance
+7cHje4KLujM18aBSLvaySE,Camila Cabello,Romance,This Love,53,220072,True,0.494,0.502,8,-5.75,1,0.0329,0.253,4.37e-06,0.105,0.162,179.643,3,romance
+7DoNtK2gVFRwJh0hkHe5wQ,Camila Cabello,Romance,Easy,51,194686,False,0.574,0.593,4,-5.731,0,0.0463,0.411,1.55e-06,0.0966,0.355,128.073,4,romance
+1OZDPALYz011jsQjMgjtFZ,Anne Sophie Versnaeyen,Soul Stories 2 (Emotional Orchestral Drama Tracks),Autumn Romance,47,143667,False,0.221,0.39,8,-12.383,1,0.0383,0.652,0.876,0.262,0.0378,89.247,4,romance
+0sHc1EEeOnmgjP6QmsR7px,Camila Cabello,Romance,Should've Said It,50,200626,False,0.666,0.549,5,-5.781,0,0.0269,0.0281,0.000181,0.136,0.596,98.014,4,romance
+3r73OmpBtQAwMgawxOmlg0,Camila Cabello,Romance,Used to This,51,210002,False,0.583,0.495,1,-7.681,0,0.0813,0.361,3.35e-06,0.348,0.364,100.047,4,romance
+0Q2kFlgnqusKAqCDpCKAIY,Camila Cabello,Romance,Bad Kind of Butterflies,49,169335,False,0.495,0.308,1,-9.528,0,0.141,0.506,0.0,0.247,0.273,108.484,3,romance
+1vsPUwB7Rtc7GdfCD5hkZK,Neb,Romance,Romance,27,91639,False,0.802,0.437,11,-8.765,0,0.332,0.813,0.0,0.106,0.657,82.483,4,romance
+54NdJzrlrl1uPIoR7CGsuf,Celtic Woman,Ancient Land (Deluxe),Ballroom Of Romance,45,196093,False,0.747,0.596,5,-6.9,1,0.0332,0.435,0.0,0.215,0.851,120.081,4,romance
+4jFD7byoPdGkEdjHLMduR9,Camila Cabello,Romance,Living Proof,49,194440,False,0.735,0.514,7,-5.464,1,0.082,0.109,0.0,0.359,0.517,77.566,4,romance
+1Ff71LUQO0KBk5Slu3K6Vu,Camila Cabello,Romance,Cry for Me,50,189133,False,0.721,0.805,9,-4.134,0,0.0927,0.05,0.0,0.153,0.653,118.058,4,romance
+3BVgrFWuH01GmCUy9Y2EE8,Shawn Mendes,Romance,Señorita,48,190813,False,0.759,0.539,9,-6.039,0,0.0287,0.0376,0.0,0.0906,0.74,116.959,4,romance
+7jJ4y8hXMLMlGBu7Zm1XZj,Camila Cabello,Romance,Dream of You,46,222999,False,0.659,0.663,11,-6.823,1,0.0811,0.205,0.0,0.105,0.333,140.013,4,romance
+39jcp8zJH7nHWbB7Hr3sFJ,Camila Cabello,Romance,Feel It Twice,46,188939,False,0.516,0.436,0,-5.568,0,0.0283,0.842,0.0,0.0901,0.376,132.07,4,romance
+7kBEQjXoeOGPGFaGIN9Ri8,Double Mixte,Romance Noire,Romance Noire,27,312467,False,0.653,0.541,8,-11.165,1,0.0459,0.0275,0.326,0.202,0.0884,119.966,4,romance
+6i97inDBdQ6PYJAasxI4Mi,NASON,Romance,Romance,25,111554,False,0.599,0.59,6,-5.914,1,0.13,0.321,0.0,0.239,0.367,65.057,4,romance
+7zGql8VF3v0sUcmJUbrpLe,Fatboibari,Teen Romance,Teen Romance,34,129358,True,0.931,0.414,3,-13.559,0,0.13,0.624,0.000527,0.376,0.609,120.005,4,romance
+1tCvlihj8zysHYAwVGilEl,Peter Cavallo,Romance for Viola,Romance for Viola,23,201738,False,0.223,0.178,0,-15.408,0,0.0367,0.988,0.872,0.106,0.0734,98.172,3,romance
+7jsds3cR1N9nNjipGQKWwF,Adriano,Mi gitarra llora suavemente,Romance de Amor (Remastered),32,167781,False,0.487,0.619,4,-6.596,0,0.0378,0.938,0.838,0.264,0.181,115.634,1,romance
+35dPjzQtPpGtUA2TV5dPtH,Alexandre Desplat,Little Women (Original Motion Picture Soundtrack),It's Romance,34,83800,False,0.275,0.66,10,-11.203,1,0.0375,0.895,0.94,0.237,0.289,87.856,5,romance
+6VDHdry8ytOL2WWbePDxSD,Dmitri Shostakovich,Soft Classical Music for Sleeping,"The Gadfly Suite, Op. 97a: VIII. Romance",47,195333,False,0.116,0.0694,0,-23.624,1,0.0497,0.969,0.644,0.109,0.0377,169.789,4,romance
+7fbCwWA3zgOgKmHupdPxmy,Yuhki Kuramoto,Misty Lake Louise,Romance,26,230760,False,0.277,0.18,4,-15.441,0,0.034,0.991,0.713,0.14,0.086,101.589,4,romance
+74oDAcXPgc3tHOkWaRWVas,Atmosphere,Whenever,Romance,15,190787,False,0.591,0.856,7,-5.494,1,0.373,0.0542,0.0,0.319,0.488,173.95,4,romance
+6GwHFr4ZngvZDe1mAosK9q,Silvanno Salles,Volume 16,Romance,49,200490,False,0.732,0.879,11,-3.37,0,0.0361,0.555,0.0,0.237,0.719,138.983,4,romance
+2lX0ufz7g21BiB83p92jaU,ShitKid,[DETENTION],RoMaNcE,20,118197,False,0.434,0.656,1,-7.206,1,0.0336,0.000885,0.0422,0.192,0.716,125.154,4,romance
+3sjdNqUZTP5WAJOzuuci0s,Bob Dylan,The Rolling Thunder Revue: The 1975 Live Recordings (Sampler),"Romance In Durango - Live at Boston Music Hall, Boston, MA - November 21, 1975 - Afternoon",18,276160,False,0.434,0.516,0,-12.492,1,0.0581,0.606,0.0,0.976,0.747,101.416,4,romance
+0xny3GbOkhYYDuiUM1BnZY,Bardo,Cartoon Romance,Cartoon Romance,25,167119,False,0.656,0.536,10,-9.889,0,0.0274,0.412,0.00836,0.272,0.554,93.818,4,romance
+4jvrYNulqk1KdFvgSBuYKV,Jovem Dionisio,Dança Entre Casais,Romance Frito,39,250590,False,0.602,0.654,2,-8.131,0,0.035,0.23,3.36e-06,0.314,0.631,138.994,4,romance
+6opvoowp00InBMl09NE11G,Gusttavo Lima,O Embaixador in Cariri (Ao Vivo),Romance no Deserto (Romance in Durango) (feat. Fagner) - Ao Vivo,43,249575,False,0.803,0.805,9,-3.349,1,0.0474,0.49,0.0,0.651,0.832,113.997,4,romance
+6aHN3UF7gGPDsIYf8dWYV2,Amy Beach,Perspectives,"Romance, Op. 23",14,364595,False,0.165,0.118,9,-17.973,1,0.0432,0.969,0.0342,0.104,0.0431,83.496,4,romance
+5CMUum0zJcmOBE58zo2pac,Pyotr Ilyich Tchaikovsky,Tchaikovsky: The Complete Solo Piano Works,"Romances, Op. 16, TH 95: 1. Berceuse",20,207446,False,0.249,0.00192,8,-38.914,0,0.0394,0.993,0.891,0.106,0.0778,68.582,3,romance
+35K05ooCMZ00rbLh04MQIZ,iris,a sensitive being,romance is dead,34,219333,False,0.613,0.227,7,-16.557,1,0.04,0.766,1.52e-05,0.103,0.123,110.576,4,romance
+7abnu1Q3CEjsCT9lEfg3y4,Carson James Argenna,Budding Romance,Budding Romance,23,206729,False,0.502,0.257,6,-8.767,1,0.0461,0.846,0.0,0.103,0.337,104.461,4,romance
+75ZW4Rq2IpOEhfp4LesZqd,Public Theatre,Romance Protectors,Romance Protectors,10,206095,False,0.662,0.86,11,-3.143,1,0.0943,0.205,1.53e-06,0.357,0.823,75.005,4,romance
+3LnkTOgl7JlgXNIK1CKHfL,Ronny Davis,Romance,Romance,23,173871,False,0.381,0.208,2,-16.817,1,0.0543,0.989,0.952,0.108,0.33,116.963,1,romance
+1LeJK7NIDnmp6g8aA2KPdG,Nacho Sanabria,Lo Mejor del Caribe,Romance Guajiro,16,234893,False,0.647,0.604,7,-8.346,1,0.0756,0.708,0.00172,0.0871,0.944,96.45,4,romance
+6POuTKlpfLQKqDjXCY48Ez,DJ Atlance,The Romance Is Not Over,The Romance Is Not Over,20,404516,False,0.807,0.902,5,-8.372,0,0.0462,0.0176,0.827,0.0922,0.603,123.995,4,romance
+2oInKtvDeJk6gGuNKcH8NP,Romancer,Lottery,Lottery,25,239467,False,0.296,0.974,5,-3.559,0,0.187,0.00024,0.0,0.292,0.303,157.399,4,romance
+2pxrNted0mQeg2s4bntiFr,Tatiana Eva-Marie,Paris,Romance,19,200674,False,0.369,0.255,9,-13.74,0,0.0416,0.864,2.23e-05,0.124,0.509,174.321,3,romance
+78ue446EywxKTjyfqKxv8J,Edward Elgar,Folk Tales,"Romance, Op. 62 (Version for Cello & Piano)",15,387240,False,0.245,0.0269,2,-25.916,0,0.042,0.988,0.9,0.0989,0.0693,113.166,3,romance
+7qU1ohewqcMmkkq3p8WuFW,Pyotr Ilyich Tchaikovsky,None but the Lonely Heart,"Six Romances, Op. 6, TH 93: VI. None but the Lonely Heart (Arr. Elman)",27,183480,False,0.215,0.0707,1,-21.798,1,0.0487,0.951,0.072,0.127,0.0356,100.938,4,romance
+4CDoNNMYeGIawqXhJzOn2a,Roosevelt,Young Romance (Deluxe),Everywhere,39,200352,False,0.616,0.832,8,-3.823,1,0.0301,0.000495,0.113,0.0781,0.314,126.999,4,romance
+6b9euaDFpLzakeuzhZgPHP,Ralph Vaughan Williams,Folk Tales,"6 Studies in English Folksong (Version for Cello & Piano): No. 3, Larghetto ""Van Dieman's Land""",51,96840,False,0.228,0.0184,2,-27.634,0,0.0471,0.992,0.932,0.0926,0.218,80.797,4,folk
+7svPsdes3vQESrTJrpQ1cj,Peter Gundry,Volur,Folkvangr,32,249500,False,0.378,0.311,4,-15.147,1,0.0336,0.832,0.942,0.234,0.303,119.994,3,folk
+1iWAx1WGCY6j2zAMdACQ6E,ScHoolboy Q,CrasH Talk,Black Folk,41,147040,True,0.734,0.902,2,-6.076,0,0.397,0.831,0.00106,0.226,0.401,155.099,4,folk
+4vcbZjUGb9PeC3J0d4XBhz,Ralph Vaughan Williams,Folk Tales,"6 Studies in English Folksong (Version for Cello & Piano): No. 2, Andante sostenuto ""Spurn Point""",47,83280,False,0.352,0.0233,3,-29.476,1,0.0491,0.991,0.814,0.11,0.126,90.491,5,folk
+0ZMRdL8wpruZhb2hNaQhS4,Cal Harris Jr.,Soulful,Grown Folks Business,38,278680,False,0.678,0.569,8,-10.856,1,0.0412,0.419,0.719,0.17,0.511,160.007,4,folk
+5HI8p4nN92Lkhw1KZs4qXU,Ralph Vaughan Williams,Folk Tales,"6 Studies in English Folksong (Version for Cello & Piano): No. 4, Lento ""She Borrowed Some of Her Mother's Gold""",41,92440,False,0.279,0.0147,4,-27.139,0,0.0404,0.993,0.779,0.0872,0.194,73.405,3,folk
+4wpifBV8OFwnHoDggIHhJK,Clyde and the Milltailers,Folklore,Folklore,20,270837,False,0.555,0.543,1,-6.065,1,0.0292,0.421,0.00218,0.17,0.406,107.248,4,folk
+51JBNvKzoOWrtV6CF0rNh3,Frank Bridge,Folk Tales,"4 Short Pieces for Violin & Piano, H. 104: No. 2, Spring Song (Version for Cello & Piano)",40,152107,False,0.153,0.0234,7,-27.112,1,0.0462,0.992,0.844,0.0714,0.0807,87.384,4,folk
+36wBX4EuuHr8hbbQmS6arE,Mrs. GREEN APPLE,Attitude,Folktale,55,267293,False,0.647,0.874,2,-4.239,1,0.0266,0.0322,0.000331,0.0798,0.804,98.981,4,folk
+2d9I7eogKknoOlhooPWJzQ,Six Steps In,Folk Punk Stars,I Love You Like an Alcoholic,39,189345,False,0.802,0.348,0,-6.426,1,0.0652,0.305,0.0,0.119,0.329,104.976,4,folk
+3XUoK60Lyhtf9qyqJrppKq,Folksaga,Nysnö,Nysnö,40,156750,False,0.301,0.0194,3,-26.948,1,0.0401,0.966,0.927,0.0988,0.059,112.158,4,folk
+5oahnUDOahSzZxBvPY1mux,Ralph Vaughan Williams,Folk Tales,"6 Studies in English Folksong (Version for Cello & Piano): No. 1, Adagio ""Lovely on the Water""",37,98360,False,0.182,0.00364,4,-32.757,0,0.0429,0.984,0.55,0.0784,0.0747,69.145,3,folk
+0J3tudqY8gVVvbigDId2LT,Clyde and the Milltailers,Folklore,No More Soul in the Soil,31,206750,False,0.357,0.5,6,-6.961,0,0.0418,0.557,0.00463,0.0734,0.583,180.585,4,folk
+1SjS4zvOs3BseptP9oW3sm,Trevor Kowalski,Remnants Of A Setting Sun,Folk Story,19,164632,False,0.356,0.0464,8,-19.662,0,0.0328,0.959,0.895,0.133,0.0706,84.906,4,folk
+1BgRFsYgxhgysA23EX9bln,Ralph Vaughan Williams,Folk Tales,"6 Studies in English Folksong (Version for Cello & Piano): No. 5, Andante tranquillo ""The Lady and the Dragon""",30,106107,False,0.174,0.0155,7,-30.264,1,0.0507,0.992,0.975,0.099,0.187,82.706,1,folk
+7kENb9pHO7IKtptL7wDbqL,Okilly Dokilly,Howdilly Twodilly,Folkilly Dokilly,16,95146,False,0.497,0.923,7,-8.773,1,0.071,0.000411,0.000909,0.27,0.891,141.955,4,folk
+7KavDwYhhxGrlOKIkFMclB,Orion's Reign,Symphony of War,Nostos - Folk Version,35,201514,False,0.54,0.751,8,-9.029,0,0.0359,0.458,0.0645,0.92,0.609,110.026,4,folk
+5YfeMRxnEQzizKBaWj18LR,Clyde and the Milltailers,Folklore,Heroin Rag,27,176000,False,0.617,0.456,9,-5.894,0,0.03,0.868,0.00873,0.298,0.734,95.934,4,folk
+2XX0pZqanHxGxXaBoRMg3x,DJ Rahat,Folk Mashup,Folk Mashup,24,388450,False,0.847,0.709,5,-7.971,1,0.118,0.226,3.63e-06,0.0821,0.565,91.01,4,folk
+0C8zNWItsoeUWnHR0HXnOA,Watering,Diagrams,Folkstone,11,95948,False,0.129,0.0305,11,-30.428,1,0.0392,0.958,0.585,0.104,0.0409,171.989,3,folk
+6iwHnvuP0vYkAEGm5keVpy,Morninglightmusic,Nine,Happy Folk,25,136500,False,0.717,0.483,5,-14.57,0,0.0435,0.0115,0.899,0.105,0.039,119.976,4,folk
+43RnDSM6Odhajk4TVhwxAa,Arnold Bax,Folk Tales,Folk Tale,13,495440,False,0.206,0.0663,7,-22.821,0,0.0458,0.989,0.86,0.0671,0.075,166.906,1,folk
+1bVFjQOrL3SFPrBvN21vKo,Ruggero Leoncavallo,Pavarotti - The Greatest Hits,"Pagliacci / Act 1: ""Vesti la giubba""",29,170000,False,0.153,0.246,4,-14.643,1,0.0401,0.958,0.0923,0.0876,0.0756,76.273,1,folk
+2dyDLUO3E6QHlQ44zsvppz,Phoenix Moon,Classic Folk and Acoustic Favourites,Harvest Moon,32,301412,False,0.749,0.392,2,-10.252,1,0.029,0.344,0.000119,0.292,0.483,112.051,4,folk
+0WZHOcKuFJfgMcFQ4KyPTS,Texas Country Group,Best of Classic Country: Old West Songs,Folk in Your Heart,11,214480,False,0.627,0.353,6,-12.442,0,0.0261,0.141,0.477,0.199,0.571,107.928,4,folk
+0Vs328bGyu7aEVXfyyDQoc,Rexx Life Raj,Father Figure 3: Somewhere Out There,Grown Folks,17,128000,True,0.641,0.387,10,-11.447,1,0.436,0.249,6.66e-06,0.117,0.729,170.204,4,folk
+1fCUQRY9qlUCDsHNRPZVM3,Jeff Dunham,Relative Disaster,Great Folks Like You,17,56281,True,0.63,0.867,6,-11.513,1,0.805,0.869,0.0,0.969,0.694,96.658,3,folk
+6ykq16GkU4J9XtD8OUJOAm,Flashes,Folki,Folki,11,228533,False,0.62,0.606,5,-10.324,1,0.0279,0.322,0.807,0.0691,0.867,129.361,4,folk
+4FNXM53lsCx4aUlkizrmyV,Mrs. GREEN APPLE,僕のこと,Folktale,40,267653,False,0.643,0.867,2,-4.12,1,0.0268,0.031,0.000166,0.0811,0.796,98.96,4,folk
+1mnOKof4TMiWIA5dI5EekI,Glen Gabriel,Scandinavian Folklore,Mares Of The Night,36,262283,False,0.29,0.247,7,-13.512,1,0.0313,0.00733,0.91,0.106,0.0326,75.026,4,folk
+05CKxyJP3ZFRyMkY9idpCZ,Martin Greenbaum,Folk Dances,Cloud Walk,26,162598,False,0.33,0.0332,1,-29.002,1,0.0481,0.992,0.948,0.126,0.0583,121.526,3,folk
+4IHpRRuZApHC0M0TzCpmL5,Georges Bizet,Pavarotti - The Greatest Hits,"Carmen, WD 31, Act II: La fleur que tu m'avais jetée",27,269253,False,0.178,0.168,1,-18.173,1,0.0472,0.984,0.569,0.275,0.0508,82.435,1,folk
+79hGpLouwH0l1gVaJ6e6ER,FolkBeat,Трое,Синяя река,29,176327,False,0.607,0.753,6,-6.047,0,0.0419,0.0038,0.0,0.112,0.175,97.936,4,folk
+7CAKJJmeiQsupcz8pTQjtx,Mickey Singh,Mombattiye (Folk Recreation),Mombattiye - Folk Recreation,31,205760,False,0.722,0.5,1,-7.475,1,0.231,0.433,0.000106,0.104,0.446,195.998,4,folk
+1qeGX4eORwVjwtB7h2ydwe,Ralph Vaughan Williams,Folk Tales,"6 Studies in English Folksong (Version for Cello & Piano): No. 6, Allegro vivace ""As I Walked Over London Bridge""",20,57227,False,0.5,0.0874,4,-21.652,0,0.0439,0.993,0.578,0.0733,0.578,120.48,4,folk
+71XDAtMjwhFmEoCYvJtzSx,Becca Folkes,The Trilogy - EP,Honour,27,316354,False,0.412,0.323,6,-10.294,1,0.0504,0.696,6.63e-06,0.232,0.119,73.339,4,folk
+2gi5ZdjDqqexNipR7qBjbP,Alchimyst,Folk the System,Folk the System,17,316286,False,0.582,0.851,1,-5.984,0,0.0514,0.00117,0.826,0.168,0.174,140.004,4,folk
+6992TYuEjgv2fATnMNfmOS,Liturgical Folk,Lent,Lent 3: Delight in the Lord,30,256163,False,0.357,0.306,5,-11.986,0,0.0269,0.516,0.0757,0.111,0.113,105.45,3,folk
+1LwTFcolvO7SIo3L5nq2ND,FolkBeat,Трое,Топор,27,160000,False,0.701,0.91,11,-5.728,0,0.162,0.264,1.49e-06,0.0806,0.713,159.993,4,folk
+6D2W2CrFOgpqG0pR1eJQSM,DSPS,Fully I,Folk Song for You,22,318001,False,0.665,0.699,9,-8.907,1,0.0275,0.108,2.42e-05,0.113,0.828,104.999,4,folk
+75E4gIWUK5Stdm9PcGVAlI,Ma'aM,"Can't Talk, Being Chased.",Good Folks,13,255161,False,0.241,0.439,2,-10.217,1,0.0297,0.132,0.0458,0.279,0.582,208.34,4,folk
+0y3XQyNjYuT8TJAS0aihKu,Giuseppe Verdi,Pavarotti - The Greatest Hits,"Aida / Act 1: ""Celeste Aida""",24,212173,False,0.242,0.193,10,-17.435,1,0.043,0.979,0.0164,0.269,0.0726,103.537,3,folk
+0ElNBPBUjvDgs6Y4xkRGnI,Platina Jazz,"Anime Standards, Vol. 6","The Real Folk Blues (From ""Cowboy Bepop"") (feat. Thomas Eby)",22,413700,False,0.63,0.612,4,-9.786,0,0.0463,0.509,0.0664,0.293,0.495,91.417,4,folk
+3hVgoMwrLj6plkMuLtV0zp,Jason Parris,Folk Inspired Pop Songs,Glow,28,218182,False,0.693,0.684,5,-8.018,1,0.0336,0.177,0.0,0.148,0.607,99.052,4,folk
+1uvi12aZYo1nVEIS138zaA,Santvani Trivedi,Gujarati Folk Fusion,Gujarati Folk Fusion,30,211470,False,0.587,0.525,1,-10.121,0,0.04,0.798,0.000213,0.137,0.281,109.856,4,folk
+2lxWDDDxtYTlqFAmNvHO85,The Snake Charmer,Nageena (Celtic-Indian Folk Bagpipes),Nageena (Celtic-Indian Folk Bagpipes),16,260308,False,0.514,0.955,2,-4.422,1,0.0838,0.00114,0.322,0.168,0.29,130.113,4,folk
+0SYyBL3GCGkBZldDSASX35,Clyde and the Milltailers,Folklore,Miners Song,15,172000,False,0.597,0.485,6,-7.899,0,0.0249,0.668,0.0117,0.116,0.349,96.124,4,folk
+5TQGXg3dqYY5jzpoCc45ZN,Six Steps In,Folk Punk Stars,Folk Punk Star,6,202000,False,0.546,0.701,6,-2.339,1,0.0377,0.436,0.0052,0.379,0.654,120.836,4,folk
+6WNjJRgKwpvktI5eSHuEHu,ScHoolboy Q,CrasH Talk,Black Folk,9,147051,False,0.739,0.907,2,-5.973,0,0.387,0.856,0.00133,0.239,0.415,155.059,4,folk
+5Zn84XPKCUfOeiofQkIdMe,Ernest John Moeran,Folk Tales,Irish Lament,18,200693,False,0.217,0.0425,2,-23.514,0,0.0374,0.992,0.904,0.0881,0.126,133.337,4,folk
